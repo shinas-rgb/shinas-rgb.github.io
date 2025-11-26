@@ -57,6 +57,9 @@ img {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 3rem;
 }
 
 .navbar {
@@ -70,4 +73,8 @@ p {
   text-align: center;
   color: #595959;
   margin-top: 3rem;
+}
+
+ul svg {
+  height: 34px;
 }
