@@ -81,8 +81,7 @@ img {
 p {
   text-align: center;
   color: #595959;
-  margin-top: 3rem;
-  margin-bottom: 40px;
+  margin-top: 4rem;
 }
 
 .scroll-text-anim {
@@ -134,7 +133,7 @@ ul svg {
     padding-top: 0.3rem;
   }
   .icons {
-    margin-top: 4rem;
+    margin-top: 1rem;
   }
   p {
     font-size: 0.7rem;
@@ -143,5 +142,6 @@ ul svg {
   .navbar {
     padding: 2rem;
     padding-top: 2rem;
+    padding-bottom: 4.5rem;
   }
 }
