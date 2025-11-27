@@ -78,3 +78,28 @@ p {
 ul svg {
   height: 34px;
 }
+
+@media only screen and (max-width: 400px) {
+  .v2-text-hero {
+      color: black;
+      font-size: 2.1rem;
+      font-weight: bold;
+      margin-right: 0px;
+  }
+}
+@media only screen and (max-width: 580px) {
+    .v2-text-hero {
+        color: black;
+        font-size: 3rem;
+        font-weight: bold;
+        margin-right: 0px;
+    }
+  }
+@media only screen and (max-width: 990px) {
+    .v2-text-hero {
+        color: black;
+        font-size: 3rem;
+        font-weight: bold;
+        margin-right: 0px;
+    }
+}
